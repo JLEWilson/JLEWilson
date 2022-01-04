@@ -1,4 +1,4 @@
-### Hi there 👋
+<img align="right" style="height:300px" style="width:300px" style="margin-right:100px" alt="gif kirby" src="img/Hypgnome.gif"/>
 
 <!--
 **JLEWilson/JLEWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
