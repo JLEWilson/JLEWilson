@@ -1,3 +1,10 @@
+<style>
+img{
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+</style>
 <img align="right" style="height:300px" style="width:300px" style="margin-right:100px" alt="gif kirby" src="img/HypgnomeRepeat.gif"/>
 
 <!--
