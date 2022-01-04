@@ -1,5 +1,11 @@
-<link href="css/styles.css" rel="stylesheet" type="text/css">
-<img align="right" alt="Wizard Gnome casting a spell" src="img/HypgnomeRepeat.gif"/>
+<img align="right" style="height:300px" style="width:300px" style="margin-right:100px" alt="Wizard Gnome casting a spell" src="img/HypgnomeRepeat.gif"<style>
+img{
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+</style>/>
+
 
 <!--
 **JLEWilson/JLEWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
