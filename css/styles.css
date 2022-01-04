@@ -2,4 +2,7 @@ img{
   image-rendering: pixelated;
   image-rendering: -moz-crisp-edges;
   image-rendering: crisp-edges;
+  height:300px;
+  width:300px;
+  margin-right:100px
 }
