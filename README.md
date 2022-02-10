@@ -12,7 +12,8 @@
 </div>
 <hr>
 ## Languages and Technologies
-| Languages      | Technologies |
+
+| Languages   | Technologies |
 | ----------- | ----------- |
 | <ul><li>JavaScript</li><li>C#/.Net</li><li>HTML5</li><+/ul> | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
 <hr>
