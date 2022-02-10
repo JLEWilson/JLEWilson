@@ -10,9 +10,10 @@
 </a>
 <img style="display:inline-block; float:right" alt="Profile views counter" width="140px" height="28px" src="https://komarev.com/ghpvc/?username=JLEWilson&style=flat-square&color=blue"">
 </div>
-
+<hr>
+## Languages and Technologies
+| Languages      | Technologies |
+| ----------- | ----------- |
+| -JavaScript <br> -C#/.Net -Markdown | Title       |
+<hr>
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLEWilson&theme=merko&hide=stars,prs,issues)
-
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JLEWilson&theme=merko&hide=stars,prs,issues" align="center/>
-</a>
