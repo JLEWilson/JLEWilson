@@ -15,6 +15,6 @@
 
 | Languages   | Technologies |
 | ----------- | ----------- |
-| <ul><li>JavaScript</li><li>C#/.Net</li><li>React</li><li>HTML5</li><li>CSS</li><li>Markdown</li><li>SQL</li></ul> | ul><li>Git</li><li>Jest</li><li>Lint</li><li>Webpack</li><li>Bootstrap</li><li>JQuery</li><li>MySQL</li><li>EntityFrameworkCore</li><li>HtmlHelper</li><li>Swagger</li><li>Api Versioning</li></ul> |
+| <ul><li>JavaScript</li><li>C#/.Net</li><li>HTML5</li><li>CSS</li><li>Markdown</li><li>SQL</li></ul> | <ul><li>React</li><li>Git</li><li>Jest</li><li>Lint</li><li>Webpack</li><li>Bootstrap</li><li>JQuery</li><li>MySQL</li><li>EntityFrameworkCore</li><li>HtmlHelper</li><li>Swagger</li><li>Api Versioning</li></ul> |
 <hr>
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLEWilson&theme=merko&hide=stars,prs,issues)
