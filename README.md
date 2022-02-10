@@ -11,7 +11,7 @@
 <img style="display:inline-block; float:right" alt="Profile views counter" width="140px" height="28px" src="https://komarev.com/ghpvc/?username=JLEWilson&style=flat-square&color=blue"">
 </div>
 <hr>
-## Languages and Technologies
+##Languages and Technologies
 
 | Languages   | Technologies |
 | ----------- | ----------- |
