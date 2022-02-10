@@ -2,7 +2,7 @@
 <h1> 
  Hello! Welcome to my Github!
 <br>
- I'm Jacob (He/They), Feel free to look around. 
+ I'm Jacob (He/They), feel free to look around. 
 </h1>
  
 <a href="https://www.linkedin.com/in/jacob-lee-eugene-wilson/">
