@@ -14,6 +14,6 @@
 ## Languages and Technologies
 | Languages      | Technologies |
 | ----------- | ----------- |
-| -JavaScript <br> -C#/.Net -Markdown | Title       |
+| <ul><li>JavaScript</li><li>C#/.Net</li><li>HTML5</li><+/ul> | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
 <hr>
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLEWilson&theme=merko&hide=stars,prs,issues)
