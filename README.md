@@ -16,5 +16,6 @@
 | Languages   | Technologies |
 | ----------- | ----------- |
 | <ul><li>JavaScript</li><li>C#/.Net</li><li>HTML5</li><li>CSS</li><li>Markdown</li><li>SQL</li></ul> | •React  •Git  •Jest<br> •Lint  •Webpack  •Bootstrap <br> •JQuery  •MySQL   •EntityFrameworkCore <br> •HtmlHelper  •Swagger  •Api Versioning|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLEWilson)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLEWilson&theme=merko&hide=stars,prs,issues)
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLEWilson&theme=merko&hide=stars,prs,issues)
