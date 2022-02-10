@@ -12,4 +12,4 @@
 </div>
 
 
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLEWilson&hide=stars,prs,issues)
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLEWilson&theme=merko&hide=stars,prs,issues)
