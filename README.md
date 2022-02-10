@@ -10,3 +10,7 @@
 </a>
 <img style="display:inline-block; float:right" alt="Profile views counter" width="140px" height="28px" src="https://komarev.com/ghpvc/?username=JLEWilson&style=flat-square&color=blue"">
 </div>
+
+
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLEWilson&theme=merko&show_icons=true)
+
