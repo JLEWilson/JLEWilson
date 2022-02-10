@@ -13,4 +13,6 @@
 
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLEWilson&theme=merko&show_icons=true)
-
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JLEWilson&theme=merko&show_icons=true" align="center"/>
+</a>
