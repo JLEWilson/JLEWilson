@@ -15,6 +15,6 @@
 
 | Languages   | Technologies |
 | ----------- | ----------- |
-| <ul><li>JavaScript</li><li>C#/.Net</li><li>HTML5</li><li>CSS</li><li>Markdown</li><li>SQL</li></ul> | •React &nbsp; •Git &nbsp; •Jest<br> •Lint &nbsp; •Webpack &nbsp; •Bootstrap <br> •JQuery &nbsp; •MySQL &nbsp; •EntityFrameworkCore <br> •HtmlHelper &nbsp; •Swagger &nbsp; •Api Versioning|
+| <ul><li>TypeScript</li><li>C#/.Net</li><li>HTML5</li><li>CSS</li><li>Markdown</li><li>SQL</li></ul> | •React &nbsp; Remix  &nbsp;•Git &nbsp; •Jest<br> •Lint &nbsp; •Webpack &nbsp; •Bootstrap <br> •JQuery &nbsp; •MySQL &nbsp; •SQLite &nbsp; •NoSQL &nbsp; •EntityFrameworkCore <br> •HtmlHelper &nbsp; •Swagger &nbsp; •Api Versioning|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLEWilson)](https://github.com/anuraghazra/github-readme-stats) | ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLEWilson&show_icons=true&theme=merko)|
 <hr/>
